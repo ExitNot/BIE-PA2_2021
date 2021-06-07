@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kosty/OneDrive/dev/c++/PA2(2021)/kolchkos/homework/hw01/main.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+cstdint
+-
+cassert
+-
+iostream
+-
+iomanip
+-
+fstream
+-
+string
+-
+vector
+-
+

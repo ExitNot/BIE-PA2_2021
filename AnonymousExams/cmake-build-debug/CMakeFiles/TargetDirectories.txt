@@ -1,0 +1,3 @@
+C:/Users/kosty/OneDrive/dev/c++/PA2(2021)/kolchkos/homework/hw05/cmake-build-debug/CMakeFiles/hw05.dir
+C:/Users/kosty/OneDrive/dev/c++/PA2(2021)/kolchkos/homework/hw05/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kosty/OneDrive/dev/c++/PA2(2021)/kolchkos/homework/hw05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
